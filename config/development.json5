@@ -6,7 +6,5 @@
     },
     "coinbase" : {
         "spotBaseURL": "https://api.coinbase.com/v2/prices/",
-        "apiKey": "j3sGtKEcpVJVSUKf",
-        "apiSecret": "cfA33z8IK0uTJL7zILF4IMgviq8Mhtet"
     }
 }
